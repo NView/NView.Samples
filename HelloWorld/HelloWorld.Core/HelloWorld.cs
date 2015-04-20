@@ -5,7 +5,7 @@ namespace HelloWorld
 {
 	public class HelloWorld
 	{
-		public readonly Label Label = new Label {
+		public readonly Label MainView = new Label {
 			Text = "Hello, World!"
 		};
 	}
